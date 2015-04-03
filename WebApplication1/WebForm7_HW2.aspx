@@ -18,6 +18,7 @@
         </asp:DropDownList>
         <asp:Button ID="btnCal" runat="server" Text="計算" OnClick="btnCal_Click" />
         </br>
+        </br>
          轉換：
         <asp:Label ID="result" runat="server" Text=""></asp:Label>$
     </div>
