@@ -49,9 +49,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BO\BO.csproj">
+    <ProjectReference Include="..\BO\CalClass.csproj">
       <Project>{1882c3aa-8128-4ef0-86c4-e75f131a999b}</Project>
-      <Name>BO</Name>
+      <Name>CalClass</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
