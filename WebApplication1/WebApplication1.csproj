@@ -119,9 +119,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BO\CalClass.csproj">
-      <Project>{1882c3aa-8128-4ef0-86c4-e75f131a999b}</Project>
-      <Name>CalClass</Name>
+    <ProjectReference Include="..\ClassLibrary1\ClassLibrary1.csproj">
+      <Project>{cc129d3b-2265-499b-9e5e-a457c3cd6d6d}</Project>
+      <Name>ClassLibrary1</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
